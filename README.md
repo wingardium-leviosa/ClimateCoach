@@ -1,4 +1,4 @@
-## Code used to generate Climate Coach webpage dashboard
+## Climate Coach webpage dashboard
 
 Create a file `config.py` that includes the following information:
 
